@@ -1,0 +1,1 @@
+vless://yeuserid@1.2.3.4:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=kukala%29.ir&fp=chrome&security=reality&pbk=yekdose&sid=6b#maybeparsa
